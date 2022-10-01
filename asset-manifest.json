@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nikaat-react-test-app/static/css/main.de69d250.css",
+    "main.js": "/nikaat-react-test-app/static/js/main.dd4a762d.js",
+    "index.html": "/nikaat-react-test-app/index.html",
+    "main.de69d250.css.map": "/nikaat-react-test-app/static/css/main.de69d250.css.map",
+    "main.dd4a762d.js.map": "/nikaat-react-test-app/static/js/main.dd4a762d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de69d250.css",
+    "static/js/main.dd4a762d.js"
+  ]
+}
